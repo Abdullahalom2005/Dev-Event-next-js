@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Dev Event",
-  description: "The Hub for every Dev Event you must'nt miss",
+  description: "The Hub for every Dev Event you mustn't miss",
 };
 
 export default function RootLayout({
